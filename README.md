@@ -58,4 +58,4 @@ These are analyses done independently by each of the labs, without the need to a
 
 **Open data analyses**
 
-- Children and young people’s mental health: COVID-19 and the road ahead - analysis using open data from NHS Digital and Health Education England - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/MH-services-long-chart), R analysis files :newspaper: [publication link](https://www.health.org.uk/news-and-comment/charts-and-infographics/children-and-young-people-s-mental-health)
+- Children and young people’s mental health: COVID-19 and the road ahead - analysis using open data from NHS Digital and Health Education England - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/MH-services-long-chart), R analysis files - :newspaper: [publication link](https://www.health.org.uk/news-and-comment/charts-and-infographics/children-and-young-people-s-mental-health)
