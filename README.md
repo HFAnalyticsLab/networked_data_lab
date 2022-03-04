@@ -39,7 +39,7 @@ These are analyses either using open data, or where data definitions were standa
 
 **Satellite analyses by labs**
 
-These are analyses done independently by each of the labs, without the need to adopt common definitions.
+These are analyses done independently by each of the labs, without the need to adopt common definitions and approaches.
 
 - Grampian: Identification and changes in healthcare while self-isolating (shielding) during the coronavirus pandemic - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Output4_Grampian), Analysis plan and pre-print - :newspaper: [publication pre-print link](https://www.medrxiv.org/content/10.1101/2021.09.09.21263026v1)
 - Leeds: CEV people, frailty and use of adult social care services - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Output4_Leeds), Analysis plan and Rmarkdown analysis file
