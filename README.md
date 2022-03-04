@@ -1,4 +1,4 @@
-<img src="ndlbanner.png" width="405" height="96">
+<img src="img/ndlbanner.png" width="405" height="96">
 
 ## The Networked Data Lab on GitHub
 
@@ -10,7 +10,7 @@ The [Networked Data Lab](https://www.health.org.uk/funding-and-partnerships/our-
 
 #### Our labs
 
-<img src="partners-map.png" width="18%" height="18%" align="left"/>
+<img src="img/partners-map.png" width="18%" height="18%" align="left"/>
 <ul>
   <li>The <a href="https://www.abdn.ac.uk/achds/">Aberdeen Centre for Health Data Science</a> (ACHDS) which includes <a href="https://www.nhsgrampian.org/">NHS Grampian</a>
  and the <a href="https://www.aberdeen-isc.ac.uk/">University of Aberdeen</a></li>
