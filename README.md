@@ -37,7 +37,7 @@ These are analyses either using open data, or where data definitions were standa
 - The impact of COVID-19 on hospital activity by CEV people - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Output3_Hospital_care_CEV), R codes for analysis - :newspaper: [publication link](https://www.health.org.uk/news-and-comment/charts-and-infographics/hospital-use-clinically-extremely-vulnerable-population)
 - Briefing paper: Assessing the impact of COVID-19 on the clinically extremely vulnerable population - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Output3_Hospital_care_CEV), R codes for analysis - :newspaper: [publication link](https://www.health.org.uk/publications/reports/assessing-the-impact-of-covid-19-on-the-clinically-extremely-vulnerable-population)
 
-**Satellite analyses by partners**
+**Satellite analyses by labs**
 
 These are analyses done independently by each of the labs, without the need to adopt common definitions.
 
