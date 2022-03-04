@@ -42,8 +42,7 @@ These are analyses either using open data, or where data definitions were standa
 These are analyses done independently by each of the labs, without the need to adopt common definitions.
 
 - Grampian: Identification and changes in healthcare while self-isolating (shielding) during the coronavirus pandemic - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Output4_Grampian), Analysis plan and pre-print - :newspaper: [publication pre-print link](https://www.medrxiv.org/content/10.1101/2021.09.09.21263026v1)
-- Leeds: CEV people, frailty and use of adult social care services - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Output4_Leeds)
-, Analysis plan and Rmarkdown analysis file
+- Leeds: CEV people, frailty and use of adult social care services - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Output4_Leeds), Analysis plan and Rmarkdown analysis file
 - Liverpool and Wirral: Mental health of CEV people - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Output4_LiverpoolWirral), Analysis plan and R analysis files
 - Wales: The impact on levels of health care use and mental health of CEV people - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Output4_Wales), Analysis plan and Rmarkdown analysis file - :newspaper: [publication link](https://phw.nhs.wales/services-and-teams/knowledge-directorate/research-and-evaluation/publications/covid-19-in-wales-the-impact-on-levels-of-health-care-use-and-mental-health-of-the-clinically-extremely-vulnerable/)
 - North West London: Mental health of CEV people - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Output4_NWLondon), Analysis plan and Rmarkdown analysis file
