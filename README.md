@@ -58,3 +58,15 @@ These are analyses done independently by each of the labs, without the need to a
 **Open data analyses**
 
 - Children and young people’s mental health: COVID-19 and the road ahead - analysis using open data from NHS Digital and Health Education England - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/MH-services-long-chart), R analysis files - :newspaper: [publication link](https://www.health.org.uk/news-and-comment/charts-and-infographics/children-and-young-people-s-mental-health)
+
+**Satellite analyses by labs**
+
+These are analyses done independently by each of the labs.
+
+- Grampian: Prescribing patterns of mental health medications and referrals to CAMHS - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_CYPMH_Grampian), Analysis plan, codes and report
+- Leeds: Patterns in the use of mental health services among children and young people in Leeds - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_CYPMH_Leeds), Analysis plan, codes and report
+- Liverpool and Wirral: Children and young people's mental Health in Liverpool and Wirral - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_CYPMH_Liverpool_Wirral), Analysis plan, codes and report
+- Wales: Trends in mental health crisis events among children and young people across the acute health care system in Wales - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_CYPMH_Wales), Analysis plan, codes and report
+- North West London: Impact of the COVID-19 pandemic on the mental health of
+the children and young people population in North West
+London - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_CYPMH_North_West_London), Analysis plan, codes and report
