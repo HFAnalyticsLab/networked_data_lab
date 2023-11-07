@@ -70,3 +70,30 @@ These are analyses done independently by each of the labs.
 - North West London: Impact of the COVID-19 pandemic on the mental health of
 the children and young people population in North West
 London - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_CYPMH_North_West_London), Analysis plan, codes and report
+
+### :three: Topic 3: Unpaid carers and their access to support (2022-2023)
+
+**Analysis of survey and open data sources** 
+
+- Understanding unpaid carers and their access to support - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/ndl-unpaid-carers-open-data/tree/main), R analysis files - 📰 [publication link](https://www.health.org.uk/publications/long-reads/understanding-unpaid-carers-and-their-access-to-support) 
+
+**Resources for analysts** 
+
+- We are currently doing an exploratory analysis on unpaid carers recorded in NHS England's GP core contract data. Here we provide the code for a pipeline that downloads, processes and transforms the GP Core Contract data on unpaid carers registered by GP practice to a local authority level, then links and compares this transformed data to the counts of unpaid carers per local authority from the 2021 census - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/gp-contract-unpaid-carers/tree/main)
+
+- We have uploaded a [data-sharing agreement](https://github.com/HFAnalyticsLab/ndl-unpaid-carers/tree/main/Data%20sharing%20agreements) template for users to draw from, courtesy of the West Yorkshire Integrated Care Board. 
+
+**Central analyses** 
+
+These are analyses where data definitions were standardised across all labs to enable identical analyses using secure-access health care records. 
+
+- Long read: Can you tell we care?: identifying unpaid carers using local authority and GP records - 📁 [GitHub](https://github.com/HFAnalyticsLab/ndl-unpaid-carers-central-analyses/tree/main), R codes for analysis - 📰 [publication link]  
+
+**Satellite analyses by labs** 
+
+These are analyses done independently by each of the labs: 
+
+- Leeds: Analysis of unpaid carers' needs and utilisation of services in Leeds - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Unpaid_Carers_Leeds), Analysis plan, codes and report
+- Liverpool and Wirral: Analysis of unpaid carers in Liverpool and Wirral - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Unpaid_Carers_Liverpool_and_Wirral), Analysis plan, codes and report
+- Wales: Analysis of demographics, health and health service use of unpaid carers at a local authority level in Wales - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Unpaid_Carers_Wales), Analysis plan, codes and report
+- North West London: Analysis on the impact of being an unpaid carer on health conditions and healthcare access in North West London - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Unpaid_Carers_NWL), Analysis plan, codes and report
