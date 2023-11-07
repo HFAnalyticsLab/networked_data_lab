@@ -53,7 +53,7 @@ These are analyses done independently by each of the labs, without the need to a
 
 - A library of clinical code lists for mental health conditions - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/Mental-health-code-lists), Links to external code list repositories
 - Data extraction and cleaning pipeline for the secure-access version of NHS Digital's Mental Health Services Dataset (MHSDS) - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/MHSDS-cleaning-pipeline), SQL codes
-- Web-scraping and data cleaning pipeline for NHS Digital's monthly MHSDS statistics - :file_folder: [GitHub](https://github.com/sg-peytrignet/MHSDS-pipeline), R codes to extract monhtly data, compile into a longitudinal dataset and create a visualization dashboard 
+- Web-scraping and data cleaning pipeline for NHS Digital's monthly MHSDS statistics - :file_folder: [GitHub](https://github.com/sg-peytrignet/MHSDS-pipeline), R codes to extract monthly data, compile into a longitudinal dataset and create a visualization dashboard 
 
 **Open data analyses**
 
@@ -79,7 +79,7 @@ London - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_CYPMH_Nort
 
 **Resources for analysts** 
 
-- We are currently doing an exploratory analysis on unpaid carers recorded in NHS England's GP core contract data. Here we provide the code for a pipeline that downloads, processes and transforms the GP Core Contract data on unpaid carers registered by GP practice to a local authority level, then links and compares this transformed data to the counts of unpaid carers per local authority from the 2021 census - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/gp-contract-unpaid-carers/tree/main)
+- We are currently doing an exploratory analysis on unpaid carers recorded in NHS England's GP core contract data. Here we provide the code for a pipeline that downloads, processes and transforms the GP Core Contract data on unpaid carers registered by GP practice to a local authority level, then links and compares this transformed data to the counts of unpaid carers per local authority from the 2021 census - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/gp-contract-unpaid-carers)
 
 - We have uploaded a [data-sharing agreement](https://github.com/HFAnalyticsLab/ndl-unpaid-carers/tree/main/Data%20sharing%20agreements) template for users to draw from, courtesy of the West Yorkshire Integrated Care Board. 
 
