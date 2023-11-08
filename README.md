@@ -87,7 +87,7 @@ London - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_CYPMH_Nort
 
 These are analyses where data definitions were standardised across all labs to enable identical analyses using secure-access health care records. 
 
-- Long read: Can you tell we care?: identifying unpaid carers using local authority and GP records - 📁 [GitHub](https://github.com/HFAnalyticsLab/ndl-unpaid-carers-central-analyses/tree/main), R codes for analysis - 📰 [publication link]  
+- Long read: Can you tell we care?: identifying unpaid carers using local authority and GP records - 📁 [GitHub](https://github.com/HFAnalyticsLab/ndl-unpaid-carers-central-analyses/tree/main), R codes for analysis - 📰 [publication link](https://www.health.org.uk/publications/long-reads/can-you-tell-we-care)  
 
 **Satellite analyses by labs** 
 
