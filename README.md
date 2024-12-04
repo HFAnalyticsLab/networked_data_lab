@@ -102,4 +102,16 @@ These are analyses done independently by each of the labs:
 
 **Analysis of open data on intermediate care** 
 
-- The challenges and potential of intermediate care - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/Intermediate-care-open-data-clean/tree/main), R analysis files - 📰 [publication link]() 
+- The challenges and potential of intermediate care - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/Intermediate-care-open-data-clean/tree/main), R analysis files - 📰 [publication link]()
+
+**Analysis by labs** 
+
+These are analyses done independently by each of the labs, synthesised in our briefing: 
+
+- West Yorkshire: Analysis of step-down intermediate care in Leeds - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Intermediate_Care_WY), Analysis plan, codes and report
+- Cheshire & Merseyside: Analysis of step-down intermediate care in Liverpool - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Intermediate_Care_CM), Analysis plan, codes and report
+- Grampian: Analysis bed-based intermediate care in Grampian - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Intermediate_Care_Grampian), Analysis plan, codes and report
+- Wales: Analysis of reablement in Wales - :file_folder: [GitHub](https://github.com/HFAnalyticsLab/NDL_Intermediate_Care_Wales), Analysis plan, codes and report
+- North West London: Analysis of step-down intermediate care in North West London (forthcoming)
+
+
