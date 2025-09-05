@@ -116,15 +116,12 @@ These are analyses done independently by each of the labs, synthesised in our br
 
 ### :five: Topic 4: The elective care waiting list (2024-2025)
 
-**Resources for analysts**
-- The NDL's central analysis plan for our study of the elective care waiting list, plus details on cross-tabulations and age-adjustments of waiting time inequalities (forthcoming) :file_folder: [GitHub](https://github.com/tom-prendergast-thf/NDL_Waiting_List_Resources)
-
 **Analysis by labs** 
 
 These are analyses done independently by each of the labs, synthesised in our briefing: 
 
-- West Yorkshire: Analysis of the elective care waiting list in West Yorkshire ICB - :file_folder: [GitHub](https://github.com/tom-prendergast-thf/NDL_Waiting_List_WY) (forthcoming)
-- Cheshire & Merseyside: Analysis of the elective care waiting list in Cheshire and Merseyside ICB - :file_folder: [GitHub](https://github.com/tom-prendergast-thf/NDL_Waiting_List_CM) (forthcoming)
+- West Yorkshire: Analysis of the elective care waiting list in West Yorkshire ICB - :file_folder: [GitHub](https://github.com/tom-prendergast-thf/NDL_Waiting_List_WY)
+- Cheshire & Merseyside: Analysis of the elective care waiting list in Cheshire and Merseyside ICB - :file_folder: [GitHub](https://github.com/tom-prendergast-thf/NDL_Waiting_List_CM)
 - Grampian: Analysis of the elective care waiting list in NHS Grampian Health Board - :file_folder: [GitHub](https://github.com/tom-prendergast-thf/NDL_Waiting_List_Grampian) (forthcoming)
 - North West London: Analysis of the elective care waiting list in North West London ICB - :file_folder: [GitHub](https://github.com/tom-prendergast-thf/NDL_Waiting_List_NWL), Analysis plan, codes and report
 
