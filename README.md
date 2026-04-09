@@ -125,3 +125,16 @@ These are analyses done independently by each of the labs, synthesised in our br
 - Grampian: Analysis of the elective care waiting list in NHS Grampian Health Board - :file_folder: (forthcoming)
 - North West London: Analysis of the elective care waiting list in North West London ICB - :file_folder: [GitHub](https://github.com/tom-prendergast-thf/NDL_Waiting_List_NWL), Analysis plan, codes and report
 
+### 6️⃣: Topic 6: Housing and health (2025-2026)
+
+**Analysis by labs** 
+
+These are analyses done independently by each of the labs, synthesised in our briefing: 
+
+- West Yorkshire: Analysis of the selective licensing programme in Leeds - 📁: [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_WY)
+- Cheshire & Merseyside: Analysis of household composition and retrofit alignment in Cheshire & Merseyside - 📁: [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_CM)
+- Grampian: Analysis of the health needs of residents in Grampian - 📁: [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_Grampian)
+- North West London: Analysis of those exposed to damp & mould and fuel poverty in North West London - 📁: [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_NWL)
+- Wales: Analysis of poor quality housing and recipients of the Warm Wales programme - 📁: [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_Wales)
+
+
