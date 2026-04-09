@@ -131,10 +131,10 @@ These are analyses done independently by each of the labs, synthesised in our br
 
 These are analyses done independently by each of the labs, synthesised in our briefing: 
 
-- West Yorkshire: Analysis of the selective licensing programme in Leeds - 📁: [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_WY)
-- Cheshire & Merseyside: Analysis of household composition and retrofit alignment in Cheshire & Merseyside - 📁: [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_CM)
-- Grampian: Analysis of the health needs of residents in Grampian - 📁: [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_Grampian)
-- North West London: Analysis of those exposed to damp & mould and fuel poverty in North West London - 📁: [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_NWL)
-- Wales: Analysis of poor quality housing and recipients of the Warm Wales programme - 📁: [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_Wales)
+- West Yorkshire: Analysis of the selective licensing programme in Leeds - 📁 [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_WY)
+- Cheshire & Merseyside: Analysis of household composition and retrofit alignment in Cheshire & Merseyside - 📁 [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_CM)
+- Grampian: Analysis of the health needs of residents in Grampian - 📁 [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_Grampian)
+- North West London: Analysis of those exposed to damp & mould and fuel poverty in North West London - 📁 [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_NWL)
+- Wales: Analysis of poor quality housing and recipients of the Warm Wales programme - 📁 [GitHub](https://github.com/GeorgeStevensonHF/NDL_Housing_Health_Wales)
 
 
